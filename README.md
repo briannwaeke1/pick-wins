@@ -7,7 +7,6 @@
 
 An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www.mongodb.com/) web application.
 
-:rocket: [Check out the demo](https://nextjs-mongodb.vercel.app/) :rocket:
 
 </div>
 
