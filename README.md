@@ -2,15 +2,13 @@
 
 <div align="center">
 
-An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www.mongodb.com/) web application.
+An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www.mongodb.com/) web application where you can track your betting W/L ratio and W/L ratio of other users.
 
 </div>
 
 <h2 align="center">Features</h2>
 
 <div align="center">
-
-Track your betting W/L ratio and W/L ratio of other users.
 
 </div>
 
