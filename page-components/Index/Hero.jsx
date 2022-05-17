@@ -8,20 +8,18 @@ const Hero = () => {
     <Wrapper>
       <div>
         <h1 className={styles.title}>
-          <span className={styles.nextjs}>Next.js</span>
-          <span className={styles.mongodb}>MongoDB</span>
-          <span>App</span>
+          <span>PickWins</span>
         </h1>
         <Container justifyContent="center" className={styles.buttons}>
           <Container>
             <Link passHref href="/feed">
-              <ButtonLink className={styles.button}>Explore Feed</ButtonLink>
+              <ButtonLink className={styles.button}>Today's Games</ButtonLink>
             </Link>
           </Container>
           <Spacer axis="horizontal" size={1} />
           <Container>
             <ButtonLink
-              href="https://github.com/hoangvvo/nextjs-mongodb-app"
+              href="https://github.com/briannwaeke1/pick-wins"
               type="secondary"
               className={styles.button}
             >
@@ -30,8 +28,9 @@ const Hero = () => {
           </Container>
         </Container>
         <p className={styles.subtitle}>
-          A Next.js and MongoDB web application, designed with simplicity for
-          learning and real-world applicability in mind.
+          PickWins allows you to pick the winner of sporting events scheduled
+          for today! With the ability to track your and other users WIN/LOSS
+          ratio! Coming soon: Additional insight & analysis on every game!
         </p>
       </div>
     </Wrapper>

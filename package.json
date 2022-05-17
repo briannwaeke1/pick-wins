@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-mongodb-app",
+  "name": "pick-wins",
   "version": "1.0.0",
-  "description": "Full fledged app made with Next.JS and MongoDB",
+  "description": "Track your betting W/L ratio and W/L ratio of other users.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -11,14 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangvvo/nextjs-mongodb-app.git"
+    "url": "git+https://github.com/briannwaeke1/pick-wins.git"
   },
-  "author": "Hoang Vo (https://hoangvvo.com)",
-  "license": "MIT",
+  "author": "Brian Nwaeke",
   "bugs": {
-    "url": "https://github.com/hoangvvo/nextjs-mongodb-app/issues"
+    "url": "https://github.com/briannwaeke1/pick-wins/issues"
   },
-  "homepage": "https://github.com/hoangvvo/nextjs-mongodb-app#readme",
+  "homepage": "https://github.com/briannwaeke1/pick-wins",
   "dependencies": {
     "@lukeed/ms": "^2.0.0",
     "ajv": "^8.11.0",

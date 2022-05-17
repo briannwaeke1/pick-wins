@@ -106,7 +106,7 @@ const Nav = () => {
           justifyContent="space-between"
         >
           <Link href="/">
-            <a className={styles.logo}>Next.js MongoDB App</a>
+            <a className={styles.logo}>PickWins</a>
           </Link>
           <Container>
             {user ? (
@@ -131,6 +131,8 @@ const Nav = () => {
                     Sign Up
                   </Button>
                 </Link>
+                <Spacer axis="horizontal" size={0.25} />
+                <ThemeSwitcher />
               </>
             )}
           </Container>

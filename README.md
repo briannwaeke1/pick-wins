@@ -1,4 +1,3 @@
-
 <h1 align="center">PickWins</h1>
 
 <div align="center">
@@ -7,14 +6,13 @@
 
 An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www.mongodb.com/) web application.
 
-
 </div>
 
 <h2 align="center">Features</h2>
 
 <div align="center">
 
-Track your betting W/L ratio and  W/L ratio of other users.
+Track your betting W/L ratio and W/L ratio of other users.
 
 </div>
 
@@ -24,7 +22,7 @@ Track your betting W/L ratio and  W/L ratio of other users.
 
 - [x] Session-based authentication ([Passport.js](https://github.com/jaredhanson/passport))
 - [x] Sign up/Log in/Sign out API
-- [x] Authentication via email/password
+- [] Authentication via email/password
 - [ ] Authentication via OAuth (Google, Facebook, etc.)
 - [x] Email verification
 - [x] Password change
@@ -57,8 +55,6 @@ Track your betting W/L ratio and  W/L ratio of other users.
 </div>
 
 <h2 align="center">Guide</h2>
-
-
 
 <h3 align="center">Dependencies</h3>
 
@@ -96,4 +92,3 @@ Start the development server by running `yarn dev` or `npm run dev`. Getting sta
 This project can be deployed [anywhere Next.js can be deployed](https://nextjs.org/docs/deployment). Make sure to set the environment variables using the options provided by your cloud/hosting providers.
 
 After building using `npm run build`, simply start the server using `npm run start`.
-
